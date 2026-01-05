@@ -1,6 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Improving application security compliance and securing cloud migrations for enterprise infrastructure.<br><br><br>👯 I’m looking to collaborate on<br><br>Open-source security tools, Python/Bash automation scripts, and secure architecture projects.<br><br><br><br>🤝 I’m looking for help with<br><br>Advanced malware behavior analysis and complex reverse engineering challenges.<br><br><br>🌱 I’m currently learning<br><br>Advanced Cloud Security strategies to further enhance my OSCP and AZ-500 expertise.<br><br><br>💬 Ask me about<br><br>Penetration Testing, Linux Hardening (Arch/BlackArch), SOC Operations, and Vulnerability Management.<br><br><br>⚡ Fun fact<br><br>I have completed over 100 CTF challenges across reverse engineering, cryptography, web, and forensics.
+# 💫 About Me
+🔭 I’m currently working on  
+Improving application security compliance and securing cloud migrations for enterprise infrastructure.
 
+👯 I’m looking to collaborate on  
+Open-source security tools, Python/Bash automation scripts, and secure architecture projects.
+
+🤝 I’m looking for help with  
+Advanced malware behavior analysis and complex reverse engineering challenges.
+
+🌱 I’m currently learning  
+Advanced Cloud Security strategies to further enhance my OSCP and AZ-500 expertise.
+
+💬 Ask me about  
+Penetration Testing, Linux Hardening (Arch/BlackArch), SOC Operations, and Vulnerability Management.
+
+⚡ Fun fact  
+I have completed over 100 CTF challenges across reverse engineering, cryptography, web, and forensics.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/for_aliev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-aliyev99/) 
